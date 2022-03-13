@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nayan_site/static/css/main.5705076c.css",
+    "main.js": "/nayan_site/static/js/main.f312488a.js",
+    "static/media/Signup.jpeg": "/nayan_site/static/media/Signup.dbb137e660150f74423f.jpeg",
+    "index.html": "/nayan_site/index.html",
+    "main.5705076c.css.map": "/nayan_site/static/css/main.5705076c.css.map",
+    "main.f312488a.js.map": "/nayan_site/static/js/main.f312488a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5705076c.css",
+    "static/js/main.f312488a.js"
+  ]
+}
