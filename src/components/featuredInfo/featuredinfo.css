@@ -1,0 +1,50 @@
+.featured{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.featuredItem{
+    flex: 1;
+    margin: 0px 20px;
+    padding: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #fff;
+    -webkit-box-shadow: 0px 0px 19px -6px rgba(77,73,77,0.86);
+    -moz-box-shadow: 0px 0px 19px -6px rgba(77,73,77,0.86);
+    box-shadow: 0px 0px 19px -6px rgba(77,73,77,0.86); 
+}
+.featuredItem:hover{
+    -webkit-box-shadow: 0px 0px 35px -6px rgba(77,73,77,0.86);
+-moz-box-shadow: 0px 0px 35px -6px rgba(77,73,77,0.86);
+box-shadow: 0px 0px 35px -6px rgba(77,73,77,0.86);
+}
+.fee{
+    background-color: #00C897 ;
+
+}
+
+.featuredTitle{
+    font-size: 22px;
+}
+.featuredAttenContainer{
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+}
+.featuredAtten{
+   font-size: 15px;
+   margin:0px 5px ;
+}
+
+.featuredIcon{
+    font-size: 25px;
+    margin-right: 5px;
+}
+.featuredIcon.good{
+    color: #00C897;
+}
+.meetlink{
+    text-decoration: none;
+}

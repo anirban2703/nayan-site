@@ -1,0 +1,27 @@
+.widgetlg{
+    flex: 2;
+    padding: 20px;
+    background-color: #fff;
+    -webkit-box-shadow: 0px 0px 19px -6px rgba(77,73,77,0.86);
+    -moz-box-shadow: 0px 0px 19px -6px rgba(77,73,77,0.86);
+    box-shadow: 0px 0px 19px -6px rgba(77,73,77,0.86);
+    border-radius: 5px; 
+}
+.widgetLgTitle{
+    font-size: 20px;
+}
+.widgetlgList{
+  list-style: none;
+  border: 2px solid #eee;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.widgetLgListItem{
+    border-bottom: 2px solid #eee;
+    margin: 5px;
+}
+.descriptionlg{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}

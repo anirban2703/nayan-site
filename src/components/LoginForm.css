@@ -1,0 +1,22 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px ;
+    
+}
+.form-comp{
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgb(95, 161, 175);
+    background-color: #fff;
+}
+.center-label{
+    display: flex;
+    justify-content: center;
+}
+
+.login-register{
+    text-decoration: none;
+}
